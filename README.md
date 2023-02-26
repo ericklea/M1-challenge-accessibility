@@ -17,4 +17,4 @@ To view the CSS sheet and HTML open in VSCode and/or view commits in github to v
 
 # Sources 
 
-The original code, both HTML and CSS sheet are from the University of Utah Coding Bootcamp. Assistance was provided by University of Utah Coding Bootcamp tutor Jeremy Jones. 
+The original code, both HTML and CSS sheet are from the University of Utah Coding Bootcamp. Assistance with consolidating CSS selectors was provided by University of Utah Coding Bootcamp tutor Jeremy Jones. 
