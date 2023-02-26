@@ -134,6 +134,12 @@ p {
     max-width: 150px;
 }
 
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .main-content {
     margin-bottom: 20px;
     padding: 50px;
