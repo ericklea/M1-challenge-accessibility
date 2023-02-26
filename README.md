@@ -1,6 +1,6 @@
 # M1-challenge-accessibility
 
-This HTML and CSS sheet are enhanced for the purpose of meeting accessibility standards 
+This HTML and CSS sheet are enhanced for the purpose of meeting accessibility standards. They contain logical flow, semantic elements, comments.
 
 # Description 
 
